@@ -8,6 +8,7 @@
 |---|---
 |邮箱|xiaon_ttrfambzqd@aka.yeah.net
 |备用邮箱|xiaon_zwzxfkezti@aka.yeah.net
+
 代码可为C,C++,Python等
 ****
 ## 投稿规范
