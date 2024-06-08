@@ -5,8 +5,9 @@
 ****
 ## 投稿方式（可以提修改意见）
 |投稿方式|联系方式|
-|邮箱|xiaon_ttrfambzqd@aka.yeah.net|
-|备用邮箱|xiaon_zwzxfkezti@aka.yeah.net|
+|---|---
+|邮箱|xiaon_ttrfambzqd@aka.yeah.net
+|备用邮箱|xiaon_zwzxfkezti@aka.yeah.net
 代码可为C,C++,Python等
 ****
 ## 投稿规范
